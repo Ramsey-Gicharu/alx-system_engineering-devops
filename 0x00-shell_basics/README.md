@@ -14,3 +14,4 @@ file 12 : script to print the type of file
 file 13: script to create a symbolic link to /bin/ls
 file 14: script to copy all html files from current directory to parent directory
 Task 15: move all files beginning with an uppercase letter to directory /tmp/u
+file 16: delete all macs files in the working dir
