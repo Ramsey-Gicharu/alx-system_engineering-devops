@@ -2,3 +2,4 @@
 !-listit: script to list files of current directory
 2-bring_me_home: cript to chnage directory back to home
 3-listfiles: script to list directory contents in long format
+4-listmorefiles: script to list hidden files
