@@ -16,3 +16,4 @@ file 14: script to copy all html files from current directory to parent director
 Task 15: move all files beginning with an uppercase letter to directory /tmp/u
 file 16: delete all macs files in the working dir
 task 17: script to create directories in the working dir
+task 18: script to list all fiels and dirs separated by commas in the working dir
