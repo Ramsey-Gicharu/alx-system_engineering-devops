@@ -10,3 +10,4 @@ file 8: script to delete a file from isnide a directory inside another directory
 file 9: script to delete a directory
 file 10: script to go back to previous directory
 file 11: script to list hidden files in the current, parent and boot directory
+file 12 : script to print the type of file
