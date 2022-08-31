@@ -12,3 +12,4 @@ file 10: script to go back to previous directory
 file 11: script to list hidden files in the current, parent and boot directory
 file 12 : script to print the type of file
 file 13: script to create a symbolic link to /bin/ls
+file 14: script to copy all html files from current directory to parent directory
