@@ -17,3 +17,4 @@ Task 15: move all files beginning with an uppercase letter to directory /tmp/u
 file 16: delete all macs files in the working dir
 task 17: script to create directories in the working dir
 task 18: script to list all fiels and dirs separated by commas in the working dir
+file 19: create a file that can be used with the command file to detect school data files
