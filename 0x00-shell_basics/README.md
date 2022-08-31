@@ -7,3 +7,4 @@ file 5: script to list files in long format with user and groupd ids displayed n
 file 6: script to make a directory in a directory
 file 7: script to move a file into a directory inside another directory
 file 8: script to delete a file from isnide a directory inside another directory
+file 9: script to delete a directory
