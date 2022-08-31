@@ -4,3 +4,4 @@
 3-listfiles: script to list directory contents in long format
 4-listmorefiles: script to list hidden files
 file 5: script to list files in long format with user and groupd ids displayed numerically and hidden files starting with period
+file 5: script to make a directory in a directory
