@@ -12,3 +12,4 @@ file 10: script that changes the mode of a file to be the same as another one
 file 11: script that adss execute permission to all users for all subdirectories in the current directory
 file 12: script to create a dir and give permissions 751 in the working dir
 file 13: script that changes the group owner of a file
+file 14: script that changes the owner and group owner for all files to vinent and staff repectively for all files and dirs in the working dir
