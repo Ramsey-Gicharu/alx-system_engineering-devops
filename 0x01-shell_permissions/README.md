@@ -9,3 +9,4 @@ file 7: script to add execution permission to all users of a file
 file 8: script to chnage permissions os that the owner and group owner has no permission at all while users of the file have all the permissions
 file 9: script that sets the mode of a file
 file 10: script that changes the mode of a file to be the same as another one 
+file 11: script that adss execute permission to all users for all subdirectories in the current directory
