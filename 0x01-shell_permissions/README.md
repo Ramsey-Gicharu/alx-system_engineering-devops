@@ -14,3 +14,4 @@ file 12: script to create a dir and give permissions 751 in the working dir
 file 13: script that changes the group owner of a file
 file 14: script that changes the owner and group owner for all files to vinent and staff repectively for all files and dirs in the working dir
 file 15: script to change ownership of the owner and group owner of a file to vincent and staff repectively
+file 16: script to chnage the ownership of a file to betty only if the username = guillame
